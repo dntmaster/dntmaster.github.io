@@ -1,0 +1,4 @@
+D:\GitHub\dntmaster.github.io\debs\com.dntmaster.autotouch_7.0.22k.deb
+CertUtil -hashfile D:\GitHub\dntmaster.github.io\debs\com.dntmaster.autotouch_7.0.22k.deb MD5
+CertUtil -hashfile D:\GitHub\dntmaster.github.io\Packages MD5
+
