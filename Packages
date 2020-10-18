@@ -1,0 +1,14 @@
+Package: com.dntmaster.autotouch_7.0.22k
+Version: 7.0.22k
+Architecture: iphoneos-arm
+Maintainer: Tonyk7
+Installed-Size: 72
+Depends: mobilesubstrate, org.thebigboss.palert
+Filename: ./debs/com.dntmaster.autotouch_7.0.22k.deb
+Size: 2244
+MD5sum: 2579249b1eec0ae4b7aa54a497d6eb2c
+Section: Tweaks
+Description: A patch to run palert on iOS 11 devices.
+Author: Tonyk7
+Depiction: https://dntmaster.github.io/description.html?id=com.dntmaster.autotouch_7.0.22k
+Name: 0vigilate
