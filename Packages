@@ -1,0 +1,14 @@
+Package: com.dntmaster.autotouch_7.0.22k
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: DNTmaster
+Installed-Size: 72
+Depends: mobilesubstrate, org.thebigboss.palert
+Filename: ./debs/com.dntmaster.autotouch_7.0.22k.deb
+Size: 2244
+MD5sum: 9127052f90e359be11923a8ff3b3af15
+Section: Tweaks
+Description: AutoGame
+Author: DNTmaster
+Depiction: https://dntmaster.github.io/description.html?id=com.dntmaster.autotouch_7.0.22k
+Name: AutoTouch
