@@ -4,11 +4,14 @@ Architecture: iphoneos-arm
 Maintainer: DNTmaster
 Installed-Size: 45661514
 Depends: mobilesubstrate
-Filename: ./debs/com.dntmaster.autotouch_7.0.22k.deb
+Filename: debs/com.dntmaster.autotouch_7.0.22k.deb
 Size: 2244
 MD5sum: 9127052f90e359be11923a8ff3b3af15
+SHA1: 58f6e0eb89813f1e708392b36fc61abde8b9913e
+SHA256: 289e31d6562f93f990d2aa4222fe40fc71111f164cd97fceb02a6e9d040797df
 Section: Tweaks
 Description: AutoGame
 Author: DNTmaster
 Depiction: https://dntmaster.github.io/description.html?id=com.dntmaster.autotouch_7.0.22k
 Name: AutoTouch
+
