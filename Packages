@@ -50,7 +50,7 @@ Author: DNTmaster
 Depiction: https://dntmaster.github.io/description.html?id=com.dntmaster.CrackTool
 Name: Cracktool2
 
-Package: io.github.dntmaster.AutoTouch.ios8
+Package: org.mr.autotouch_7.0.22k
 Name: AutoTouch with inputText
 Description: Record and playback touch operations, play macro scripts automatically.
 Section: Utilities
@@ -63,8 +63,8 @@ Maintainer: Kent Krantz <kentkrantz@gmail.com>
 Icon: file:///Applications/AutoTouch.app/AppIcon60x60@2x.png
 Version: 7.0.22.1
 Installed-Size: 102444
-MD5sum: 1839f31a4efa27a0ca4c3bd170265225
-SHA1: f9b68b31317891a80e9e8c9cbabdfedaada135cd
-SHA256: ccfd68f86e1a004285a75442325f302e13fc6ff5e15098230e59c8572bed3598
-Filename: debs/io.github.dntmaster.autotouch.ios8.deb
-Depiction: https://dntmaster.github.io/description.html?id=com.dntmaster.autotouch_7.0.22k
+MD5sum: 6b3867e807d3e93bf294aa69a1d267f0
+SHA1: 32b7ece5452125e5c239fae616f240d0d6cc2e6a
+SHA256: 1317f5a03a2eb0f6df7ebc0974b20a1a8535a017a16c3d9aa1542482af7d426e
+Filename: debs/org.mr.autotouch_7.0.22k.deb
+Depiction: https://dntmaster.github.io/description.html?id=org.mr.autotouch_7.0.22k
