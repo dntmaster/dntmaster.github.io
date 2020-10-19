@@ -7,8 +7,8 @@ python3 generate_packageinfo.py
 printf "\nUpdating 'latest tweaks' file"
 bash last_updates.sh
 printf "\nPushing to github..."
-git add *
-git commit -m "add tweak(s)"
-git push -u origin master
+#git add *
+#git commit -m "add tweak(s)"
+#git push -u origin master
 printf "Done\n"
 exit 0

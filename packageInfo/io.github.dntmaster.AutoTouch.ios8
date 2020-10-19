@@ -1,0 +1,7 @@
+{
+    "name": "AutoTouch with inputText",
+    "desc_short": "Utilities",
+    "compatitle": "iOS iOS 10+",
+    "changelog": "<strong>0.1</strong><br>+ Initial Release.<br>",
+    "open": true
+}
