@@ -50,7 +50,7 @@ Author: DNTmaster
 Depiction: https://dntmaster.github.io/description.html?id=com.dntmaster.CrackTool
 Name: Cracktool2
 
-Package: org.mr.autotouch_7.0.22k
+Package: org.mr.autotouch.7.0.22k
 Name: AutoTouch with inputText2
 Description: Record and playback touch operations, play macro scripts automatically.
 Section: Tools
@@ -66,5 +66,5 @@ Installed-Size: 29138056
 MD5sum: 6b3867e807d3e93bf294aa69a1d267f0
 SHA1: 32b7ece5452125e5c239fae616f240d0d6cc2e6a
 SHA256: 1317f5a03a2eb0f6df7ebc0974b20a1a8535a017a16c3d9aa1542482af7d426e
-Filename: debs/org.mr.autotouch_7.0.22k.deb
-Depiction: https://dntmaster.github.io/description.html?id=org.mr.autotouch_7.0.22k
+Filename: debs/org.mr.autotouch.7.0.22k.deb
+Depiction: https://dntmaster.github.io/description.html?id=org.mr.autotouch.7.0.22k
