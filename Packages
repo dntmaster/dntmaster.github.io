@@ -6,29 +6,13 @@ Depends: ldid (>= 1:1.2.1), sed, shell-cmds, system-cmds, uikittools (>= 1.1.4),
 Filename: ./debs/com.dntmaster.CrackTool.deb
 Size: 368306
 MD5sum: 5677b473ada1099b59222f8cf2db12a9
+SHA1: d7f48e929b937f3ca1c10064ad808090efc8843d
+SHA256: 5fbe9ffccfea5275eed74257003f6adc03766270a55133fed8b5f50e9247a986
 Section: Utilities
 Homepage: http://twitter.com/ijulioverne
 Description: Crack Tweaks on one click
 Author: julioverne
 Name: CrackTool2
-
-Package: io.github.dntmaster.AutoTouch.ios8
-Version: 7.0.22
-Architecture: iphoneos-arm
-Maintainer: Kent Krantz <kentkrantz@gmail.com>
-Installed-Size: 102444
-Depends: firmware (>= 8.0), mobilesubstrate, com.rpetrich.rocketbootstrap (>> 1.0.6)
-Conflicts: com.repo.xarold.com.autotouch8, repo.biteyourapple.net.autotouch8, repo.biteyourapple.net.autotouch, com.hackyouriphone.autotouch8
-Filename: ./debs/io.github.dntmaster.autotouch.ios8.deb
-Size: 29138976
-MD5sum: 1839f31a4efa27a0ca4c3bd170265225
-Section: Utilities
-Priority: optional
-Homepage: https://autotouch.net
-Description: Record and playback touch operations, play macro scripts automatically.
-Author: Kent Krantz <kentkrantz@gmail.com>
-Icon: file:///Applications/AutoTouch.app/AppIcon60x60@2x.png
-Name: AutoTouch with inputText
 
 Package: org.mr.autotouch
 Version: 7.0.22k
@@ -40,11 +24,13 @@ Conflicts: com.repo.xarold.com.autotouch8, repo.biteyourapple.net.autotouch8, re
 Filename: ./debs/org.mr.autotouch_7.0.22k.deb
 Size: 29138056
 MD5sum: 6b3867e807d3e93bf294aa69a1d267f0
+SHA1: 32b7ece5452125e5c239fae616f240d0d6cc2e6a
+SHA256: 1317f5a03a2eb0f6df7ebc0974b20a1a8535a017a16c3d9aa1542482af7d426e
 Section: Utilities
 Description: Record and playback touch operations, play macro scripts automatically.
 Author: Kent Krantz <kentkrantz@gmail.com>
 Depiction: https://mainrepo.org/package/1750
 Icon: https://cydia.saurik.com/icon/me.autotouch.autotouch.ios8.png
-Name: AutoTouch
+Name: AutoTouch inputtext (Cracked)
 Sileodepiction: https://mainrepo.org/sileo/1750
 
