@@ -7,5 +7,5 @@ Architecture: iphoneos-arm
 Components: main
 Description: DNTmaster's Tweaks
 md5sum:
- 9999e4295e6032cb6059e959328d60ec 2426 Packages
- 3632dcaef57883fcfa500ca8ab015b27 1112 Packages.bz2
+   Packages
+   Packages.bz2
